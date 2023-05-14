@@ -4,7 +4,7 @@ Hello to [BigDevSoon](https://bigdevsoon.me/) 👋
 
 Develop a sleek application that provides users with daily weather updates for their current or selected locations. The app should display essential weather details. Challenge yourself by integrating a third-party API for hourly and daily forecasts. Additionally, allow users to save their recent searches for quick and easy access.
 
-## How to start
+## How to startj
 
 1. Start the project in our [app](https://app.bigdevsoon.me/) to get a feel for it.
 2. Review the requirements listed below in this README.
